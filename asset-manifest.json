@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/dictionary-app-online-version/static/js/app.7947bc73.chunk.js",
-    "app.js.map": "/dictionary-app-online-version/static/js/app.7947bc73.chunk.js.map",
-    "runtime~app.js": "/dictionary-app-online-version/static/js/runtime~app.d3b1f1a8.js",
-    "runtime~app.js.map": "/dictionary-app-online-version/static/js/runtime~app.d3b1f1a8.js.map",
-    "static/js/2.13155b51.chunk.js": "/dictionary-app-online-version/static/js/2.13155b51.chunk.js",
-    "static/js/2.13155b51.chunk.js.map": "/dictionary-app-online-version/static/js/2.13155b51.chunk.js.map",
-    "favicon-16.png": "/dictionary-app-online-version/favicon-16.png",
-    "favicon-32.png": "/dictionary-app-online-version/favicon-32.png",
-    "favicon.ico": "/dictionary-app-online-version/favicon.ico",
-    "index.html": "/dictionary-app-online-version/index.html",
-    "manifest.json": "/dictionary-app-online-version/manifest.json",
-    "serve.json": "/dictionary-app-online-version/serve.json",
-    "static/js/2.13155b51.chunk.js.LICENSE.txt": "/dictionary-app-online-version/static/js/2.13155b51.chunk.js.LICENSE.txt"
+    "app.js": "/dictionary-app-offline-version/static/js/app.b8062c9b.chunk.js",
+    "app.js.map": "/dictionary-app-offline-version/static/js/app.b8062c9b.chunk.js.map",
+    "runtime~app.js": "/dictionary-app-offline-version/static/js/runtime~app.17826b13.js",
+    "runtime~app.js.map": "/dictionary-app-offline-version/static/js/runtime~app.17826b13.js.map",
+    "static/js/2.1fbd5d23.chunk.js": "/dictionary-app-offline-version/static/js/2.1fbd5d23.chunk.js",
+    "static/js/2.1fbd5d23.chunk.js.map": "/dictionary-app-offline-version/static/js/2.1fbd5d23.chunk.js.map",
+    "favicon-16.png": "/dictionary-app-offline-version/favicon-16.png",
+    "favicon-32.png": "/dictionary-app-offline-version/favicon-32.png",
+    "favicon.ico": "/dictionary-app-offline-version/favicon.ico",
+    "index.html": "/dictionary-app-offline-version/index.html",
+    "manifest.json": "/dictionary-app-offline-version/manifest.json",
+    "serve.json": "/dictionary-app-offline-version/serve.json",
+    "static/js/2.1fbd5d23.chunk.js.LICENSE.txt": "/dictionary-app-offline-version/static/js/2.1fbd5d23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.d3b1f1a8.js",
-    "static/js/2.13155b51.chunk.js",
-    "static/js/app.7947bc73.chunk.js"
+    "static/js/runtime~app.17826b13.js",
+    "static/js/2.1fbd5d23.chunk.js",
+    "static/js/app.b8062c9b.chunk.js"
   ]
 }
